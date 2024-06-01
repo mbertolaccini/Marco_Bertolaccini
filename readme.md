@@ -1,5 +1,17 @@
 # Hello world 👋🌎!
-## Let's connect
+
+## I am a Linux SysAdmin
+### Key skills
+- Virtualization KVM Proxmox implemented with COW FS (ZFS on Linux and BTRFS).
+- Docker compose.
+- Git.
+- VOIP.
+- Reverse proxys with SSL.
+
+### Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/marco-bertolaccini)
 - [contacto@marco.ar](mailto:contacto@marco.ar)
+
+### My CV
+- [Spanish](</Marco Bertolaccini CV-es 2014.pdf>)
