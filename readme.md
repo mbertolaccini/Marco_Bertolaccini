@@ -10,8 +10,8 @@
 
 ### Let's connect
 
-- [LinkedIn](https://www.linkedin.com/in/marco-bertolaccini)
+- [LinkedIn](https://link.marco.ar/LinkedIn) <!-- Former link: https://www.linkedin.com/in/marco-bertolaccini -->
 - [contacto@marco.ar](mailto:contacto@marco.ar)
 
 ### My CV
-- [Spanish](</Marco Bertolaccini CV-es 2014.pdf>)
+- [Spanish](https://link.marco.ar/CV-es) <!-- Former link: </Marco Bertolaccini CV-es 2014.pdf> -->
