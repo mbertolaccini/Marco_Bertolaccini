@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="devops_favicon.png">
+
 # Hello world 👋🌎!
 
 ## I am a Linux SysAdmin
