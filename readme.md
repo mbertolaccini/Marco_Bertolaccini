@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="devops_favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Hello world 👋🌎!
 
