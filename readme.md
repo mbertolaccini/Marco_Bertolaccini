@@ -2,7 +2,7 @@
 
 <meta property="og:type" content="profile">
 <meta property="og:title" content="My CV">
-<meta property="og:url" content="cv.marco.ar">
+<meta property="og:url" content="https://link.marco.ar/cv">
 <meta property="og:image" content="https://raw.githubusercontent.com/mbertolaccini/Marco_Bertolaccini/main/banner.jpg">
 <meta property="og:description" content="Let's connect">
 <meta property="profile:first_name" content="Marco">
