@@ -24,4 +24,5 @@
 - [contacto@marco.ar](mailto:contacto@marco.ar)
 
 ### My CV
+- [English](https://link.marco.ar/CV-en)
 - [Spanish](https://link.marco.ar/CV-es) <!-- Former link: </Marco Bertolaccini CV-es 2014.pdf> -->
